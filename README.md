@@ -67,7 +67,10 @@ Key analyses performed:
 ### Interactivity
 - Dynamic filters by campaign and outcome  
 - Slicers sync visuals across the dashboard  
-- Clean, minimal, and presentation-ready design  
+- Clean, minimal, and presentation-ready design
+
+- <img width="1134" height="649" alt="image" src="https://github.com/user-attachments/assets/b3dbce78-cc7e-4ce3-aefd-0c4fcd03e434" />
+
 
 ---
 
